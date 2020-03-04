@@ -204,6 +204,4 @@ const rsvps = [
     }
   }
 ]
-
-const rsvp = rsvps[0]
 export default App;
